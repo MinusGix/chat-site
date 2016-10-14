@@ -1,0 +1,15 @@
+{
+  "name": "Chat Site",
+  "version": "1.0.0",
+  "description": "a description",
+  "main": "index.js",
+  "scripts:": {
+    "start": "node index.js"
+  },
+  "author": {
+    "name": "MinusGix"
+  },
+  "dependencies": {
+    "ws": "^1.1.1"
+  }
+}
